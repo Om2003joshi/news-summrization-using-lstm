@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test Summarization using LSTM Encoder-Decoder
 
 Text summarization is the problem of creating a short, accurate, and fluent summary of a longer text document. It is a Natural Language Processing application which produces short and meaningful summary of a lengthy paragraph thereby helping us to understand the essence of the topic in an efficient way.
@@ -50,3 +51,6 @@ Predicted summary:<br>
 
 
 Thanks to Aravind Pai's [article](https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/)
+=======
+# news-summrization-using-lstm
+>>>>>>> e8ec3798bd693bed67cbf7012cff551a678629e0
